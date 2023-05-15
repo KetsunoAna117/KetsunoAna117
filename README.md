@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KetsunoAna117
+- 👋 Hi, I’m Hans Arthur Cupiterson
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning ASP.NET and ReactJs Framework
 - 📫 How to reach me: hans.cupiterson@binus.ac.id
