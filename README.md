@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Hans Arthur Cupiterson
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning ASP.NET and ReactJs Framework
+- 👋 Hi, I’m Hans Arthur Cupiterson.
+- 👀 I’m interested in Software Engineering | Mobile App Development | Web Development
+- 🌱 I’m currently learning Android Studio
 - 📫 How to reach me: hans.cupiterson@binus.ac.id
 
 <!---
