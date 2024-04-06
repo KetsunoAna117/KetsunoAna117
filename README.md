@@ -2,6 +2,16 @@
 
 <img align="right" height="150" src="https://media.licdn.com/dms/image/D4E03AQFvX6YPoUEkwA/profile-displayphoto-shrink_400_400/0/1700549334821?e=1715212800&v=beta&t=oRcGepNR_N_dtVia3H4IHugH-GdlrAERYwND_KmnRrQ"  />
 
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ketsunoana117&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+
 ###
 
 <div align="left">
