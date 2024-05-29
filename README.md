@@ -1,6 +1,5 @@
-<h2 align="left">Hi 👋! I am Hans Arthur Cupiterson</h2>
-
 ## About Me
+### Hi 👋! I am Hans Arthur Cupiterson
 I am a software engineer from Jakarta, Indonesia, and a proud member of Apple Developer Academy Cohort 7. Passionate about creating innovative solutions and advancing my skills in software development.
 
 <img align="right" height="150" src="https://media.licdn.com/dms/image/D4E03AQFvX6YPoUEkwA/profile-displayphoto-shrink_400_400/0/1700549334821?e=1715212800&v=beta&t=oRcGepNR_N_dtVia3H4IHugH-GdlrAERYwND_KmnRrQ" alt="Hans Arthur Cupiterson" />
