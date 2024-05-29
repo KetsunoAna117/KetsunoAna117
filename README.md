@@ -46,7 +46,7 @@ I am a software engineer from Jakarta, Indonesia, and a proud member of Apple De
 ### [SoLearn](https://github.com/KetsunoAna117/SoLearn)
 - Solearn is an iPadOS-based AR app to help everyone learn about the solar system in an immersive and unique way
 - This app was created as for Nano Challenge 2 project in the Apple Developer Academy
-- This project uses RealityKit, SwiftUI and 
+- This project uses RealityKit, SwiftUI and SceneKit
 
 ## Work Experience
 **Junior IOS Developer**  
