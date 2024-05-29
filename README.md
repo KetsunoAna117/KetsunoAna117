@@ -49,11 +49,11 @@ I am a software engineer from Jakarta, Indonesia, and a proud member of Apple De
 - This project uses RealityKit, SwiftUI and 
 
 ## Work Experience
-**Software Engineer Intern**  
-*Company Name* - Jakarta, Indonesia  
-*Month Year - Month Year*  
-- Developed and maintained web applications using JavaScript and React.
-- Collaborated with cross-functional teams to define, design, and ship new features.
+**Junior IOS Developer**  
+*Apple Developer Academy* - Jakarta, Indonesia  
+*2024*  
+- Developed iOS based app
+- Developed iPadOS based app
 - Wrote clean, scalable, and efficient code following best practices.
 
 ## Contact Me
