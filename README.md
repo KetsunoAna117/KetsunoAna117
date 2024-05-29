@@ -36,7 +36,7 @@ I am a software engineer from Jakarta, Indonesia, and a proud member of Apple De
 ## Education
 - **Apple Developer Academy** - Cohort 7, Jakarta, Indonesia
 
-## Projects
+## Top Projects
 ### [Pokemon](https://github.com/KetsunoAna117/Pokemon)
 - This is a simple pokemon game for Android app
 - This app was created for my mobile programming final project
